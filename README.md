@@ -232,21 +232,6 @@ python scripts/run_audits.py \
 
 ---
 
-## 📜 Citation
-
-If you find PBA-Net useful for your research, please cite our manuscript:
-
-```bibtex
-@article{pba_net_2026,
-  title={Physics-Grounded Beam Attention Network for Breast Ultrasound Benign-Malignant Lesion Stratification},
-  author={Anonymous Authors},
-  year={2026},
-  note={Under Review}
-}
-```
-
----
-
 ## 📄 License
 
 This repository is licensed under the [MIT License](LICENSE).
