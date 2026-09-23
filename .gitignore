@@ -1,0 +1,36 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# PyTorch checkpoints (release separately via Releases/Zenodo)
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+
+# Datasets & raw images
+data/raw/
+data/processed/
+*.zip
+*.tar.gz
+*.dcm
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+wandb/

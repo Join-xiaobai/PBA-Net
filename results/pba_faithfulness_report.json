@@ -1,0 +1,65 @@
+{
+  "20260613": {
+    "identity": {
+      "combined_auroc": 0.8751334858886346,
+      "physics_auroc": 0.8731829573934837,
+      "global_auroc": 0.8745777487196252,
+      "gamma_mean": 0.3755805790424347
+    },
+    "zero_lesion_bgmean": {
+      "combined_auroc": 0.8248665141113655,
+      "physics_auroc": 0.7825324180015255,
+      "global_auroc": 0.8303585049580473,
+      "gamma_mean": 0.37435150146484375
+    },
+    "keep_lesion_black": {
+      "combined_auroc": 0.8969706875885366,
+      "physics_auroc": 0.8702190258254332,
+      "global_auroc": 0.8634194181104935,
+      "gamma_mean": 0.3422406315803528
+    },
+    "drop_zero_bgmean": 0.05026697177726913
+  },
+  "20260614": {
+    "identity": {
+      "combined_auroc": 0.899160945842868,
+      "physics_auroc": 0.9007518796992482,
+      "global_auroc": 0.8959899749373433,
+      "gamma_mean": 0.36602431535720825
+    },
+    "zero_lesion_bgmean": {
+      "combined_auroc": 0.8097090552468127,
+      "physics_auroc": 0.8093167701863355,
+      "global_auroc": 0.8125967091642148,
+      "gamma_mean": 0.3651145100593567
+    },
+    "keep_lesion_black": {
+      "combined_auroc": 0.8456685191238966,
+      "physics_auroc": 0.8652173913043477,
+      "global_auroc": 0.831622534597363,
+      "gamma_mean": 0.34777596592903137
+    },
+    "drop_zero_bgmean": 0.0894518905960553
+  },
+  "20260615": {
+    "identity": {
+      "combined_auroc": 0.8786531546256946,
+      "physics_auroc": 0.8862264356543532,
+      "global_auroc": 0.8737931785986705,
+      "gamma_mean": 0.37088707089424133
+    },
+    "zero_lesion_bgmean": {
+      "combined_auroc": 0.8138498419962952,
+      "physics_auroc": 0.8121281464530893,
+      "global_auroc": 0.8195488721804511,
+      "gamma_mean": 0.3621331453323364
+    },
+    "keep_lesion_black": {
+      "combined_auroc": 0.85527950310559,
+      "physics_auroc": 0.8524790236460716,
+      "global_auroc": 0.8580690857578729,
+      "gamma_mean": 0.3480077087879181
+    },
+    "drop_zero_bgmean": 0.06480331262939942
+  }
+}
